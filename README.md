@@ -1,5 +1,4 @@
-# I'm Yuto Sato
-#
+### I'm Yuto Sato
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutosato-toh&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutosato-toh&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
