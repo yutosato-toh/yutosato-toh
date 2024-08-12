@@ -11,11 +11,3 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin" /> <br /><br />
 **Tools**
 <img src="https://skillicons.dev/icons?i=github,vscode,discord,slack," /> <br /><br />
-
-  ※Another skill and tools
-  Android studio, Virtual Box.
-  
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=vscode,github" /> <br /><br />
-
