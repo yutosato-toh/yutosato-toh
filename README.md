@@ -2,7 +2,7 @@
 **Languages**
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin" /> <br /><br />
 **Tools**
-<img src="https://skillicons.dev/icons?i=github,vscode,discord,slack," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=github,vscode,discord,androidstudio" /> <br /><br />
 
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutosato-toh&show_icons=true&theme=vue-dark&count_private=true)
 
