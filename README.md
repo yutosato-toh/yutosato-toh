@@ -21,7 +21,7 @@
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
 </picture><br />
 **Languages**<br /><br />
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,kotlin" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=js,python,java,kotlin" /> <br /><br />
 **Tools**<br /><br />
 <img src="https://skillicons.dev/icons?i=github,vscode,discord,androidstudio" /> <br /><br />
 
