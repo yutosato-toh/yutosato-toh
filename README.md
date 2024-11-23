@@ -12,8 +12,6 @@
   </picture>
 </p>
 
-
-
 <p align="left">
 <picture>
   <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
@@ -24,7 +22,3 @@
 <img src="https://skillicons.dev/icons?i=js,python,java,kotlin" /> <br /><br />
 **Tools**<br /><br />
 <img src="https://skillicons.dev/icons?i=github,vscode,discord,androidstudio" /> <br /><br />
-
-
-
-
